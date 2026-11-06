@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+tensorflow
+h5py
+joblib
+jupyter
+ipykernel
+datasets
